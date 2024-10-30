@@ -2746,3 +2746,18 @@ footer .footer-nav li a:hover {
 .switch-wrap p {
   margin: 0;
 }
+
+/**************** intro_video css start ****************/
+
+
+.intro_video_bg {
+  background-color:   #7e3dfe;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 1000px;
+  position: center;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+}
